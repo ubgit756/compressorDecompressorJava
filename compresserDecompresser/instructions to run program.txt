@@ -1,0 +1,24 @@
+# Instructions for Running the Java Application
+
+## How to Run the JAR File
+
+1. **Install Java:**
+   - Ensure that you have Java installed on your machine. You can download it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or use OpenJDK.
+
+2. **Open a Command Prompt/Terminal:**
+   - For Windows, press `Win + R`, type `cmd`, and hit `Enter`.
+   - For macOS or Linux, open the Terminal application.
+
+3. **Navigate to the Directory:**
+   - Use the `cd` command to change the directory to where the JAR file is located. For example:
+     ```
+     cd src/main/java/
+     ```
+
+4. **Run the JAR File:**
+   - Use the following command to run the JAR file:
+     ```
+     java -jar YourAppName.jar
+     ```
+
+   Replace `YourAppName.jar` with the actual name of your JAR file.
